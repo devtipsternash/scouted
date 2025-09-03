@@ -1,52 +1,52 @@
 # 🎯 Scouted — DataViz em Counter-Strike 2
 
-Repositório com análises e visualizações gráficas de **Counter-Strike 2 (CS2)**.  
-Aqui eu exploro estatísticas de jogadores, mapas e times usando **R** e pacotes de DataViz.
+Este repositório contém **análises e visualizações** de desempenho em Counter-Strike 2 (CS2).  
+Aqui eu exploro estatísticas de jogadores, mapas e times usando **R** para criar dashboards e gráficos.
 
 ---
 
 ## 📊 Gráficos disponíveis
 
-### Evolução de Rating — Souted Hitori
-![Rating Souted Hitori](plots/souted_hitori_rating_trimestre.png)
+### 📈 Evolução de Rating — Souted Hitori
+![Rating Souted Hitori](souted_hitori%20rating%20trimestre.png)
 
-### Top 10 Ratings CS2
-![Top 10 Ratings](plots/top10_ratings_cs2.png)
+### ⭐ Top 10 Ratings CS2
+![Top 10 Ratings](top%2010%20ratings_cs2_xr.png)
 
-### Painel Final — SCOUTED TOORO
-![Painel Final SCOUTED TOORO](plots/painel_final_SCOUTED_TOORO.png)
+### 🟦 Painel Final — SCOUTED TOORO
+![Painel Final SCOUTED TOORO](painel_final_SCOUTED_TOORO.png)
 
-### Dashboard SCOUTED TOORO
-![Dashboard SCOUTED TOORO](plots/dashboard_SCOUTED_TOORO.png)
+### 📊 Dashboard SCOUTED TOORO
+![Dashboard SCOUTED TOORO](dashboard_SCOUTED_TOORO.png)
 
-### Painel SCOUTED TOORO
-![Painel SCOUTED TOORO](plots/painel_SCOUTED_TOORO.png)
+### 🟨 Painel SCOUTED TOORO
+![Painel SCOUTED TOORO](painel_SCOUTED_TOORO.png)
 
-### Rating Trimestral — SCOUTED TOORO
-![Rating Trimestral](plots/SCOUTED_TOORO_rating_trimestre.png)
+### ⏳ Rating Trimestral — SCOUTED TOORO
+![Rating Trimestral](SCOUTED_TOORO%20rating%20trimestre.png)
 
-### Mapas — SCOUTED TOORO
-![Mapas SCOUTED TOORO](plots/SCOUTED_TOORO_mapas.png)
+### 🌍 Mapas — SCOUTED TOORO
+![Mapas SCOUTED TOORO](SCOUTED_TOORO%20mapas.png)
 
-### Dashboard MOUZ CS2
-![Dashboard MOUZ](plots/mouzdashboard_cs2.png)
+### 🐭 Dashboard MOUZ
+![Dashboard MOUZ](mouzdashboard_cs2_xr.png)
 
 ---
 
-## 📌 Sobre o projeto
-Este projeto é parte do **Scouted**, uma iniciativa para:  
-- Analisar dados de jogadores e equipes de CS2  
-- Criar **dashboards visuais** para acompanhar evolução  
-- Explorar **estatísticas avançadas** (ratings, EV, mapas, comparativos)  
-- Publicar insights em formato **visual e acessível**
+## 📂 Datasets incluídos
+- `souted - hitori.csv` → estatísticas do jogador Hitori  
+- `SCOUTED - TOORO.csv` → dataset de Tooro  
+- `mouz - temporada.csv` → dataset do time MOUZ  
+- `datset - hltv.csv` → estatísticas coletadas do HLTV  
 
 ---
 
 ## ⚡ Tecnologias usadas
-- **R** para análise de dados  
-- **ggplot2** para visualizações  
-- **dplyr** e **tidyverse** para manipulação de dados  
+- **R** (linguagem principal)
+- **ggplot2** (visualizações)
+- **dplyr / tidyverse** (manipulação de dados)
 
 ---
 
 ✍️ Desenvolvido por [@devtipsternash](https://github.com/devtipsternash)
+
