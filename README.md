@@ -7,8 +7,6 @@ Aqui eu exploro estatísticas de jogadores, mapas e times usando **R** para cria
 
 ## 📊 Gráficos disponíveis
 
-### 📈 Evolução de Rating — Souted Hitori
-![Rating Souted Hitori](./souted_hitori%20rating%20trimestre.png)
 
 ### ⭐ Top 10 Ratings CS2
 ![Top 10 Ratings](top%2010%20ratings_cs2_xr.png)
