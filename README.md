@@ -20,9 +20,6 @@ Aqui eu exploro estatísticas de jogadores, mapas e times usando **R** para cria
 ### 🟨 Painel SCOUTED TOORO
 ![Painel SCOUTED TOORO](painel_SCOUTED_TOORO.png)
 
-### ⏳ Rating Trimestral — SCOUTED TOORO
-![Rating Trimestral](SCOUTED_TOORO%20rating%20trimestre.png)
-
 ### 🌍 Mapas — SCOUTED TOORO
 ![Mapas SCOUTED TOORO](SCOUTED_TOORO%20mapas.png)
 
